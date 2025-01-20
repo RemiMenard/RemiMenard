@@ -19,3 +19,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://static-00.iconduck.com/assets.00/file-type-symfony-icon-2048x2048-0cpyib6g.png" alt="Symfony" width="40" height="40"/> </a> </p>
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524pb3r0qb2in9rdifoudaiufw0h0ju5f1emkc4l0i&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Symfony" width="40" height="40"/> </a> </p>
