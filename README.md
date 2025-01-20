@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rémi</h1>
-<h3 align="center">A passionate developer from France !</h3>
+<h1 align="center">Hi 👋, I'm Rémi!</h1>
+<h3>you are welcome to my GitHub profil!</h3>
 
-- 👨‍💻 All of my projects are available on my repositories !
+- 👨‍💻 All of my projects are available on my repositories!
 
 - 📫 How to reach me **menard.remi56330@gmail.com**
 
