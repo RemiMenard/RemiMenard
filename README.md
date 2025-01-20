@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rémi!</h1>
-<h3>you are welcome to my GitHub profil!</h3>
+<h3>You're welcome to my GitHub profil!</h3>
 
 - 👨‍💻 All of my projects are available on my repositories!
 
